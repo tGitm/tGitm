@@ -1,4 +1,26 @@
 ### Hi there 👋
+- 📚 Computer Science student on Faculty of Computer and Information Science in Ljubljana
+- 🌱 Currently learning Algorithms and Data Structures
+- 💻 I am learning Web development, besides studying for Uni
+- 📫 How to reach me: timrus99@gmail.com
+
+###Skills 🚀
+- Java
+- Python
+- C#
+- Bash
+- JavaScript
+- PHP
+- ASP.NET MVC
+- React
+- Wordpress theme development
+- Linux
+- Git
+- HTML5 & CSS3
+- Docker
+- SQL
+
+
 
 <!--
 **tGitm/tGitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
