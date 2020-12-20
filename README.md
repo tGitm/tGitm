@@ -4,7 +4,7 @@
 - 💻 I am learning Web development, besides studying for Uni
 - 📫 How to reach me: timrus99@gmail.com
 
-###Skills 🚀
+### Skills 🚀
 - Java
 - Python
 - C#
