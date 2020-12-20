@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 📚 Computer Science student on Faculty of Computer and Information Science in Ljubljana
 - 🌱 Currently learning Algorithms and Data Structures
 - 💻 I am learning Web development, besides studying for Uni
