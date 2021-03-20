@@ -5,19 +5,19 @@
 - 📫 How to reach me: timrus99@gmail.com
 
 ### Skills 🚀
+- React
 - Java
+- Java Fx
 - Python
 - C#
 - Bash
 - JavaScript
 - PHP
 - ASP.NET MVC
-- React
 - Wordpress theme development
 - Linux
 - Git
-- HTML5 & CSS3
-- Docker
+- HTML5 & CSS3, Tailwind CSS and Bootstrap
 - SQL
 
 
