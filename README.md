@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 📚 Computer Science student on Faculty of Computer and Information Science in Ljubljana
-- 🌱 Currently learning Algorithms and Data Structures
+- 🌱 Currently learning Algorithms and Data Structures, User Interfaces (Java FX) and more
 - 💻 I am learning Web development, besides studying for Uni
 - 📫 How to reach me: timrus99@gmail.com
 
