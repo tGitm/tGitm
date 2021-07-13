@@ -6,6 +6,7 @@
 
 ### Skills 🚀
 - React
+- Node.js
 - Java
 - Java Fx
 - Python
