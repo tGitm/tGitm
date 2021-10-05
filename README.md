@@ -21,6 +21,7 @@
 - Git
 - HTML5 & CSS3, Tailwind CSS and Bootstrap
 - SQL
+- Mirth Connect
 
 
 
