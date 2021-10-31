@@ -7,6 +7,7 @@
 
 ### Skills 🚀
 - React
+- Flutter
 - Node.js
 - Java
 - Java Fx
