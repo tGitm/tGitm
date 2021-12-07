@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 📚 Computer Science student on Faculty of Computer and Information Science in Ljubljana
-- 🌱 Currently learning Algorithms and Data Structures, User Interfaces (Java FX) and more
-- 💻 I am learning Mobile and Web development, besides studying for Uni
+- 🌱 Currently learning full stack Mobile and Web development, besides studying for Uni
 - 👷‍♂️ Working as Software developer at Mesi d.o.o.
 - 📫 How to reach me: timrus99@gmail.com
 
