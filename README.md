@@ -6,11 +6,11 @@
 
 ### Skills 🚀
 - React
+- Flutter
 - JavaScript
 - Node.js
 - HTML & CSS, Tailwind CSS and Bootstrap
 - SQL
-- Flutter
 - Java
 - Java Fx
 - Python
