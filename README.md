@@ -6,6 +6,6 @@
 
 ### Skills 🚀
 - Mobile development -> Kotlin, Swift, Flutter
-- Fullstack Web development -> Javascript, Vue, React, Nodejs, HTML, CSS, Tailwind, Wordpress theme development
+- Fullstack Web development -> React, Nodejs, Javascript, HTML, CSS, Tailwind, Wordpress theme development
 - Databases -> MySQL, SQLite, MongoDB
 - Git
