@@ -5,7 +5,7 @@
 - 📫 How to reach me: timrus.dev@gmail.com
 
 ### Skills 🚀
-- Mobile development -> Kotlin, Swift, Flutter
-- Fullstack Web development -> React, Nodejs, Javascript, HTML, CSS, Tailwind, Wordpress theme development
+- Mobile development -> Kotlin, Java, Flutter
+- Fullstack Web development -> NextJs, ReactJs, Nodejs, Javascript, HTML, CSS, Tailwind, Wordpress theme development
 - Databases -> MySQL, SQLite, MongoDB
 - Git
